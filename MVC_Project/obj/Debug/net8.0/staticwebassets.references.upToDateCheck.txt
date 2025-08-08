@@ -1,0 +1,11 @@
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVC\EvergreenInventory.API\obj\Debug\net8.0\staticwebassets.build.json
